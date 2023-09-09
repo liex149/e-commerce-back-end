@@ -51,8 +51,8 @@ router.put('/:id', async (req, res) => {
         id: req.params.id,
       },
     });
-    if (!userData[0]) {
-      res.status(404).json({ message: 'No user with this id!' });
+    if (!updateCategory) {
+      res.status(404).json({ message: 'No category with this id!' });
       return;
     }
     res.status(200).json(updateCategory);
@@ -64,8 +64,13 @@ router.put('/:id', async (req, res) => {
 router.delete('/:id', async (req, res) => {
   // delete a category by its `id` value
   try{
-    await Category.findByIdAndRemove(req.params.id);
-    console.log("sucess");
+    await Category.destroy(
+      {
+        where: {
+          id: req.params.id,
+        }
+      });
+    res.status(200).json("deleted");
 }
 catch(err){
     res.status(500).send(err);
