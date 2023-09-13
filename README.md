@@ -1,9 +1,5 @@
 # E-commerce Back End 
-<<<<<<< HEAD
-
-=======
 [Untitled_ Sep 13, 2023 12_41 PM.webm](https://github.com/liex149/e-commerce-back-end/assets/132797792/aa0c1b8f-9a0c-4dc6-83fb-8e1dcdc3c26e)
->>>>>>> ad552eb5bef16ce010438bf1ca289df864441c9f
 
 [Untitled_ Sep 13, 2023 12_49 PM.webm](https://github.com/liex149/e-commerce-back-end/assets/132797792/e1ea93aa-da3c-48d6-b8dd-a54af8ad7e87)
 
