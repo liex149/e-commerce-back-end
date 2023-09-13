@@ -1,4 +1,8 @@
 # E-commerce Back End 
+[mysql and seed walktrhough 9_13_23.webm](https://github.com/liex149/e-commerce-back-end/assets/132797792/b34bdd74-c2e1-4831-82e8-d798e85db850)
+[Uploading product route 9_13_23.webm…]()
+[Uploading category route 9_13_23.webm…]()
+[Uploading Tags route 9_13_23.webm…]()
 
 ## Table of Content 
 
