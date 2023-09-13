@@ -24,7 +24,7 @@ This is a back end for an e-commerce site
 User will need to use mysql2, sequalize, insomnia, and the dotenv package
 
 ## Usage 
-User will open 
+User will open db folder. In db folder the user will run mysql and source schema.js in the terminal. After that, the user will then go to the server terminal and run 'npm run seed' then run 'node server.js. After the app is listening on port, the user will then open Insomnia. In insomnia the user will demonstrate GET, POST, PUT, and DELETE routes as in the walkthrough video above. 
 
 ## License 
 MIT
