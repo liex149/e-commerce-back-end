@@ -1,12 +1,11 @@
 # E-commerce Back End 
+[Walkthrough mysql and seed.webm](https://github.com/liex149/e-commerce-back-end/assets/132797792/1020758e-7453-4b43-8c28-bb774f946293)
 
-[Walktrhough for mysql and seeds](https://github.com/liex149/e-commerce-back-end/assets/132797792/aa0c1b8f-9a0c-4dc6-83fb-8e1dcdc3c26e)
+[Walkthrough product route.webm](https://github.com/liex149/e-commerce-back-end/assets/132797792/bff9a377-471d-4c67-87ca-6e2d576dfee9)
 
-[Product route walkthrough](https://github.com/liex149/e-commerce-back-end/assets/132797792/e1ea93aa-da3c-48d6-b8dd-a54af8ad7e87)
+[Walkthroughcategory route.webm](https://github.com/liex149/e-commerce-back-end/assets/132797792/8313c2c2-c32a-4b10-9d29-e3253a407db9)
 
-[Category route walkthrough](https://github.com/liex149/e-commerce-back-end/assets/132797792/5540552b-b0b4-4db5-805c-83ab3f03995e)
-
-[Tags route walkthrough](https://github.com/liex149/e-commerce-back-end/assets/132797792/b794aac1-4e3b-44dc-91ba-caeb7a3d752a)
+[Walkthroughtags route.webm](https://github.com/liex149/e-commerce-back-end/assets/132797792/d7339abe-635a-4af3-874d-47b3a6ce004c)
 
 ## Table of Content 
 
